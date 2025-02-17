@@ -1,0 +1,63 @@
+{
+    "facebook_mega_data": {
+        "ITV3": 1,
+        "Southern Communications Services": 1,
+        "AT&T": 1,
+        "CF Communications": 1,
+        "T-Mobile Usa, Inc.": 1
+    },
+    "twitter_mega_data": {
+        "Lumen Technologies": 8,
+        "AT&T": 5,
+        "Verizon": 2,
+        "Frontier Communications": 1,
+        "TVC Albany": 1,
+        "O1 Communications": 1
+    },
+    "instagram_mega_data": {
+        "Verizon": 1
+    },
+    "youtube_mega_data": {
+        "Verizon": 5,
+        "AT&T": 4,
+        "Frontier Communications": 2,
+        "Neutral Tandem": 2,
+        "Windstream Communications": 1,
+        "Bandwidth.com": 1,
+        "Infobip": 1,
+        "U.S. Cellular": 1,
+        "SIGecom": 1
+    },
+    "telegram_mega_data": {
+        "Africell": 15,
+        "AT&T": 2,
+        "telenor": 1,
+        "Verizon": 1,
+        "CF Communications": 1,
+        "Deltacom": 1,
+        "Infobip": 1,
+        "Big River Communications": 1
+    },
+    "all": {
+        "Africell": 15,
+        "AT&T": 12,
+        "Verizon": 9,
+        "Lumen Technologies": 8,
+        "Frontier Communications": 3,
+        "CF Communications": 2,
+        "Infobip": 2,
+        "Neutral Tandem": 2,
+        "ITV3": 1,
+        "Southern Communications Services": 1,
+        "T-Mobile Usa, Inc.": 1,
+        "TVC Albany": 1,
+        "O1 Communications": 1,
+        "Windstream Communications": 1,
+        "Bandwidth.com": 1,
+        "U.S. Cellular": 1,
+        "SIGecom": 1,
+        "telenor": 1,
+        "Deltacom": 1,
+        "Big River Communications": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "facebook_mega_data": {
+        "ONVOY, LLC": 4,
+        "N/A": 3,
+        "BANDWIDTH.COM": 2,
+        "Bandwidth.com": 2,
+        "BANDWIDTH.COM CLEC, LLC": 1
+    },
+    "twitter_mega_data": {
+        "ONVOY, LLC": 6,
+        "Freephone": 6,
+        "BANDWIDTH.COM CLEC, LLC": 4,
+        "N/A": 3,
+        "Bandwidth.com": 2,
+        "Peerless Network": 2,
+        "ONVOY, LLC  NY": 2,
+        "BANDWIDTH.COM": 2,
+        "MCI WORLDCOM COMMUNICATIONS, INC., CA": 1,
+        "ONVOY, LLC  VA": 1,
+        "MULTIPLE OCN LISTING": 1,
+        "Premium rate": 1,
+        "XO CALIFORNIA, INC.": 1
+    },
+    "instagram_mega_data": {
+        "BANDWIDTH.COM CLEC, LLC": 1
+    },
+    "youtube_mega_data": {
+        "ONVOY, LLC": 5,
+        "BANDWIDTH.COM": 5,
+        "N/A": 5,
+        "Bandwidth.com": 4,
+        "ONVOY, LLC  NY": 3,
+        "Freephone": 3,
+        "Onvoy LLC former Neutral Tandem": 1,
+        "PEERLESS NETWORK OF PENNSYLVAN": 1,
+        "MULTIPLE OCN LISTING": 1
+    },
+    "telegram_mega_data": {
+        "N/A": 20,
+        "FRACTEL, LLC": 13,
+        "BANDWIDTH.COM CLEC, LLC": 8,
+        "MULTIPLE OCN LISTING": 4,
+        "BANDWIDTH.COM": 4,
+        "ONVOY, LLC": 3,
+        "ONVOY, LLC  NY": 2,
+        "Peerless": 2,
+        "ONVOY, LLC  MO": 2,
+        "IRISTEL INC.": 1,
+        "Premium rate": 1,
+        "ONVOY, LLC  IN": 1,
+        "TELSTRA CORPORATION LIMITED": 1,
+        "Peerless Network": 1
+    },
+    "all": {
+        "N/A": 31,
+        "ONVOY, LLC": 18,
+        "BANDWIDTH.COM CLEC, LLC": 14,
+        "BANDWIDTH.COM": 13,
+        "FRACTEL, LLC": 13,
+        "Freephone": 9,
+        "Bandwidth.com": 8,
+        "ONVOY, LLC  NY": 7,
+        "MULTIPLE OCN LISTING": 6,
+        "Peerless Network": 3,
+        "Premium rate": 2,
+        "Peerless": 2,
+        "ONVOY, LLC  MO": 2,
+        "MCI WORLDCOM COMMUNICATIONS, INC., CA": 1,
+        "ONVOY, LLC  VA": 1,
+        "XO CALIFORNIA, INC.": 1,
+        "Onvoy LLC former Neutral Tandem": 1,
+        "PEERLESS NETWORK OF PENNSYLVAN": 1,
+        "IRISTEL INC.": 1,
+        "ONVOY, LLC  IN": 1,
+        "TELSTRA CORPORATION LIMITED": 1
+    }
+}

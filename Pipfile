@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pymongo = "*"
+apify-client = "*"
+openai = "*"
+pycountry = "*"
+requests = "*"
+tweepy = "*"
+seaborn = "*"
+pandas = "*"
+matplotlib = "*"
+tld = "*"
+cymruwhois = "*"
+whois = "*"
+virustotal-api = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.6"

@@ -1,0 +1,28 @@
+{
+    "path_exp": "results/clustering",
+    "path_embeddings": "embeddings/all-mpnet-base-v2",
+    "path_data_dir": "data/username_squat_data/posts/twitter",
+    "seed": 1233,
+    "embedding": {
+        "umap": {
+            "metric": "cosine",
+            "n_neighbors": 15,
+            "min_dist": 0.0,
+            "n_components": 5,
+            "random_state": 42
+        }
+    },
+    "clustering": {
+        "hdbscan": {
+            "clustering_metric": "euclidean",
+            "min_samples": 5,
+            "min_cluster_size": 50
+        }
+    },
+    "mode": "centroid",
+    "visual": {
+        "method": "tsne",
+        "also_cosine": true
+    },
+    "save_plots": true
+}

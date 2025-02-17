@@ -1,0 +1,22 @@
+{
+    "facebook_mega_data": {
+        "medium": 91,
+        "low": 55,
+        "high": 1
+    },
+    "twitter_mega_data": {
+        "low": 23
+    },
+    "instagram_mega_data": {},
+    "youtube_mega_data": {
+        "low": 47
+    },
+    "telegram_mega_data": {
+        "low": 8
+    },
+    "all": {
+        "low": 133,
+        "medium": 91,
+        "high": 1
+    }
+}

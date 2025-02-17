@@ -1,0 +1,22 @@
+{
+    "facebook_mega_data": {
+        "true": 100,
+        "false": 47
+    },
+    "twitter_mega_data": {
+        "false": 20,
+        "true": 3
+    },
+    "instagram_mega_data": {},
+    "youtube_mega_data": {
+        "false": 42,
+        "true": 5
+    },
+    "telegram_mega_data": {
+        "false": 8
+    },
+    "all": {
+        "false": 117,
+        "true": 108
+    }
+}

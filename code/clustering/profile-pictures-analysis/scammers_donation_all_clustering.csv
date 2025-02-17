@@ -1,0 +1,825 @@
+,img_path,cls_name
+0,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1513088507-bainianzhenxiang.png,Games & Cartoon
+1,/data/datasets/scam_donation_2024/scammers_images/all/youtube_2b5YdK8Nzzw.png,Games & Cartoon
+2,/data/datasets/scam_donation_2024/scammers_images/all/youtube_zpVRx505C9w.png,Politics/War
+3,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1120324746.png,Games & Cartoon
+4,/data/datasets/scam_donation_2024/scammers_images/all/youtube_WkcsnAny4Cw.png,Politics/War
+5,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100044245938469.png,Miscellaneous
+6,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100094729856682.png,Games & Cartoon
+7,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1342300853-zimatv.png,Frontimage Man/Woman
+8,/data/datasets/scam_donation_2024/scammers_images/all/twitter_72198806.png,Frontimage Man/Woman
+9,/data/datasets/scam_donation_2024/scammers_images/all/youtube_Xjw3PBXh-2A.png,Frontimage Man/Woman
+10,/data/datasets/scam_donation_2024/scammers_images/all/youtube_GciqSzifJsM.png,Frontimage Man/Woman
+11,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063787112239.png,Games & Cartoon
+12,/data/datasets/scam_donation_2024/scammers_images/all/youtube_XLOAe8vsoes.png,Social Content/Posts
+13,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100080751829860.png,Pets
+14,/data/datasets/scam_donation_2024/scammers_images/all/twitter_16729099.png,Association Logos
+15,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064628772149.png,Association Logos
+16,/data/datasets/scam_donation_2024/scammers_images/all/youtube_5TCxpiutAg8.png,Frontimage Man/Woman
+17,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1470567816352915458.png,Association Logos
+18,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100093402830207.png,Pets
+19,/data/datasets/scam_donation_2024/scammers_images/all/youtube_cGMpQ6QjeNY.png,Social Content/Posts
+20,/data/datasets/scam_donation_2024/scammers_images/all/youtube_MaHSy2Kreys.png,Social Content/Posts
+21,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1285555668-lf_tCgKl-jIxYzRk.png,Politics/War
+22,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064348103226.png,Association Logos
+23,/data/datasets/scam_donation_2024/scammers_images/all/youtube_lCMg41iC0JY.png,Social Content/Posts
+24,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100079290557510.png,Association Logos
+25,/data/datasets/scam_donation_2024/scammers_images/all/instagram_thesatoproject.png,Pets
+26,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2798759391.png,Pets
+27,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100093324527783.png,Association Logos
+28,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064944094649.png,Association Logos
+29,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100077134855660.png,Association Logos
+30,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1306302985-gifki_anime.png,Games & Cartoon
+31,/data/datasets/scam_donation_2024/scammers_images/all/twitter_19444865.png,Frontimage Man/Woman
+32,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1003740416-kashinguru.png,Association Logos
+33,/data/datasets/scam_donation_2024/scammers_images/all/youtube_Gbh_iTz2JjM.png,Pets
+34,/data/datasets/scam_donation_2024/scammers_images/all/youtube_dok9nJy_JKo.png,Social Content/Posts
+35,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1304447544576167942.png,Frontimage Man/Woman
+36,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100047190765585.png,Association Logos
+37,/data/datasets/scam_donation_2024/scammers_images/all/youtube_LdDw9wmxK3E.png,Politics/War
+38,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1653819918977216513.png,Frontimage Man/Woman
+39,/data/datasets/scam_donation_2024/scammers_images/all/twitter_25573213.png,Association Logos
+40,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1383921575615885314.png,Pets
+41,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2565762702.png,Association Logos
+42,/data/datasets/scam_donation_2024/scammers_images/all/instagram_policypal.png,Association Logos
+43,/data/datasets/scam_donation_2024/scammers_images/all/instagram_estelle_aliot.png,Frontimage Man/Woman
+44,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1615251793-tomlausen.png,Frontimage Man/Woman
+45,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100079460236815.png,Association Logos
+46,/data/datasets/scam_donation_2024/scammers_images/all/youtube_vLsn9fG6XZA.png,Social Content/Posts
+47,/data/datasets/scam_donation_2024/scammers_images/all/youtube_oo1CCSBHO20.png,Social Content/Posts
+48,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1257039208277069824.png,Association Logos
+49,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064818213326.png,Miscellaneous
+50,/data/datasets/scam_donation_2024/scammers_images/all/youtube_d2MJyg4mOPw.png,Social Content/Posts
+51,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100082525506327.png,Association Logos
+52,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1286768378-decheance.png,Games & Cartoon
+53,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100084187426813.png,Association Logos
+54,/data/datasets/scam_donation_2024/scammers_images/all/youtube_jc-sIB3fa2w.png,Politics/War
+55,/data/datasets/scam_donation_2024/scammers_images/all/twitter_34065272.png,Association Logos
+56,/data/datasets/scam_donation_2024/scammers_images/all/youtube_YIpxpPHQBFc.png,Social Content/Posts
+57,/data/datasets/scam_donation_2024/scammers_images/all/youtube_l9pqUTaM2qw.png,Politics/War
+58,/data/datasets/scam_donation_2024/scammers_images/all/twitter_21372665.png,Association Logos
+59,/data/datasets/scam_donation_2024/scammers_images/all/youtube_z__L2ZkWU4k.png,Social Content/Posts
+60,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1696487516-f6I6tjtIlMcyM2Q6.png,Politics/War
+61,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100067333493264.png,Pets
+62,/data/datasets/scam_donation_2024/scammers_images/all/youtube_bJbN-tST-r0.png,Politics/War
+63,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064531936128.png,Association Logos
+64,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064260176576.png,Pets
+65,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1473208008-V89eyOHN3JahCkVJ.png,Games & Cartoon
+66,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1820435526-planetbibizyan.png,Politics/War
+67,/data/datasets/scam_donation_2024/scammers_images/all/twitter_153805750.png,Frontimage Man/Woman
+68,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1161107215.png,Association Logos
+69,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2050808836-hzaze_sporat1.png,Association Logos
+70,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1355164945323683841.png,Miscellaneous
+71,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100053949473574.png,Pets
+72,/data/datasets/scam_donation_2024/scammers_images/all/youtube_hgVYrpUs4qU.png,Frontimage Man/Woman
+73,/data/datasets/scam_donation_2024/scammers_images/all/youtube_4mS3ROfyJ3s.png,Social Content/Posts
+74,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100084390786300.png,Miscellaneous
+75,/data/datasets/scam_donation_2024/scammers_images/all/twitter_3323778494.png,Frontimage Man/Woman
+76,/data/datasets/scam_donation_2024/scammers_images/all/youtube_2uabwdYMzVk.png,Social Content/Posts
+77,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1196503896073670656.png,Association Logos
+78,/data/datasets/scam_donation_2024/scammers_images/all/instagram_thewirein.png,Association Logos
+79,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1448828405-leaders_official.png,Games & Cartoon
+80,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100009926535557.png,Pets
+81,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1666331937-ivBz6adD3Sg2ZWM1.png,Crypto Coins
+82,/data/datasets/scam_donation_2024/scammers_images/all/twitter_39766020.png,Games & Cartoon
+83,/data/datasets/scam_donation_2024/scammers_images/all/instagram_winstonthepony24.png,Pets
+84,/data/datasets/scam_donation_2024/scammers_images/all/youtube_1ya49A_PFpg.png,Social Content/Posts
+85,/data/datasets/scam_donation_2024/scammers_images/all/twitter_989567996904357888.png,Frontimage Man/Woman
+86,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1066644882964516865.png,Miscellaneous
+87,/data/datasets/scam_donation_2024/scammers_images/all/twitter_4026518639.png,Frontimage Man/Woman
+88,/data/datasets/scam_donation_2024/scammers_images/all/youtube_mdA4RTYKQAQ.png,Social Content/Posts
+89,/data/datasets/scam_donation_2024/scammers_images/all/instagram_fip_hk.png,Pets
+90,/data/datasets/scam_donation_2024/scammers_images/all/youtube_ZRZ5MSKFHjA.png,Social Content/Posts
+91,/data/datasets/scam_donation_2024/scammers_images/all/youtube_UdzKVeVPht4.png,Frontimage Man/Woman
+92,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2082561005-fxrwtx.png,Frontimage Man/Woman
+93,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2006330194-ton4btc.png,Crypto Coins
+94,/data/datasets/scam_donation_2024/scammers_images/all/youtube_m9LH7MBxJJE.png,Social Content/Posts
+95,/data/datasets/scam_donation_2024/scammers_images/all/youtube_74Jj3S5Kri8.png,Politics/War
+96,/data/datasets/scam_donation_2024/scammers_images/all/youtube_dgu0RSNyDUE.png,Social Content/Posts
+97,/data/datasets/scam_donation_2024/scammers_images/all/instagram_irondogk9international.png,Pets
+98,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1008214019-fardinalikhah.png,Frontimage Man/Woman
+99,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100004316282665.png,Games & Cartoon
+100,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100090600882162.png,Association Logos
+101,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100057635223538.png,Miscellaneous
+102,/data/datasets/scam_donation_2024/scammers_images/all/instagram_nypost.png,Association Logos
+103,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064287213636.png,Games & Cartoon
+104,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064823613261.png,Games & Cartoon
+105,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064786926837.png,Pets
+106,/data/datasets/scam_donation_2024/scammers_images/all/youtube_X7yIvHSosPw.png,Politics/War
+107,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064334843765.png,Association Logos
+108,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2012943229-fightposting.png,Social Content/Posts
+109,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1171060303011962880.png,Frontimage Man/Woman
+110,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1742476210-musica8daudi.png,Games & Cartoon
+111,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1799171443-agentofficiel.png,Crypto Coins
+112,/data/datasets/scam_donation_2024/scammers_images/all/youtube_nO1d675nIsU.png,Politics/War
+113,/data/datasets/scam_donation_2024/scammers_images/all/youtube_SPfryeVGE5o.png,Politics/War
+114,/data/datasets/scam_donation_2024/scammers_images/all/youtube_elcOQ8HVDSg.png,Social Content/Posts
+115,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2111383659-sbFnAG-Jly9mNzky.png,Politics/War
+116,/data/datasets/scam_donation_2024/scammers_images/all/youtube_1tbEjE1tsTw.png,Social Content/Posts
+117,/data/datasets/scam_donation_2024/scammers_images/all/twitter_244112880.png,Association Logos
+118,/data/datasets/scam_donation_2024/scammers_images/all/youtube_gZvoTFhnOWI.png,Social Content/Posts
+119,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1942371998-rogerxaxaxa.png,Games & Cartoon
+120,/data/datasets/scam_donation_2024/scammers_images/all/youtube_Zz6ybg2in-I.png,Social Content/Posts
+121,/data/datasets/scam_donation_2024/scammers_images/all/youtube_eHxpqS-YBdM.png,Games & Cartoon
+122,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100070660025256.png,Association Logos
+123,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100069416839136.png,Pets
+124,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100076271976598.png,Association Logos
+125,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1683788928-magggeorg.png,Games & Cartoon
+126,/data/datasets/scam_donation_2024/scammers_images/all/instagram_pfahyderabad.png,Association Logos
+127,/data/datasets/scam_donation_2024/scammers_images/all/youtube_hScv1OKvQkg.png,Social Content/Posts
+128,/data/datasets/scam_donation_2024/scammers_images/all/twitter_127851451.png,Games & Cartoon
+129,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1620872121-ariXUT5g26oxN2Q6.png,Frontimage Man/Woman
+130,/data/datasets/scam_donation_2024/scammers_images/all/youtube_dsI1HuKbrog.png,Games & Cartoon
+131,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1361657579-casandooverbo.png,Games & Cartoon
+132,/data/datasets/scam_donation_2024/scammers_images/all/twitter_816282120767291392.png,Frontimage Man/Woman
+133,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1442443141022318594.png,Frontimage Man/Woman
+134,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100057476348510.png,Games & Cartoon
+135,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100044238107786.png,Pets
+136,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1707143005-a_kuzichev.png,Frontimage Man/Woman
+137,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064108720016.png,Pets
+138,/data/datasets/scam_donation_2024/scammers_images/all/twitter_566918257.png,Association Logos
+139,/data/datasets/scam_donation_2024/scammers_images/all/twitter_41668173.png,Association Logos
+140,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100079067276688.png,Association Logos
+141,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1123885332-parslivres.png,Games & Cartoon
+142,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064858891456.png,Association Logos
+143,/data/datasets/scam_donation_2024/scammers_images/all/youtube_wgGl3fYHx_I.png,Social Content/Posts
+144,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1186746035-gkparveenudan.png,Frontimage Man/Woman
+145,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1417888931.png,Games & Cartoon
+146,/data/datasets/scam_donation_2024/scammers_images/all/twitter_434453732.png,Frontimage Man/Woman
+147,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1513284193-a5h8wNlNQAM1NTNk.png,Games & Cartoon
+148,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100034872076843.png,Pets
+149,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2903285195.png,Association Logos
+150,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100067470891222.png,Pets
+151,/data/datasets/scam_donation_2024/scammers_images/all/twitter_781082881137311744.png,Association Logos
+152,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063663338645.png,Association Logos
+153,/data/datasets/scam_donation_2024/scammers_images/all/youtube_TSkccYtxMgQ.png,Social Content/Posts
+154,/data/datasets/scam_donation_2024/scammers_images/all/youtube_OY_aRJ3ZSKI.png,Social Content/Posts
+155,/data/datasets/scam_donation_2024/scammers_images/all/youtube_GsVSmSZ1PzE.png,Politics/War
+156,/data/datasets/scam_donation_2024/scammers_images/all/youtube_LKv4NX1CwBg.png,Social Content/Posts
+157,/data/datasets/scam_donation_2024/scammers_images/all/twitter_91416716.png,Association Logos
+158,/data/datasets/scam_donation_2024/scammers_images/all/twitter_29334354.png,Frontimage Man/Woman
+159,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1668197879-daily_help_trading_easy_earn_mon.png,Crypto Coins
+160,/data/datasets/scam_donation_2024/scammers_images/all/youtube_2NdYVt-JMLc.png,Politics/War
+161,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1418573241-alehssan_serial.png,Games & Cartoon
+162,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064756775864.png,Pets
+163,/data/datasets/scam_donation_2024/scammers_images/all/youtube_9H0ViPMutHc.png,Politics/War
+164,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1643834710.png,Games & Cartoon
+165,/data/datasets/scam_donation_2024/scammers_images/all/youtube_YDf2J0DDP_I.png,Social Content/Posts
+166,/data/datasets/scam_donation_2024/scammers_images/all/youtube_0T-T3TrbEQc.png,Social Content/Posts
+167,/data/datasets/scam_donation_2024/scammers_images/all/twitter_23478246.png,Association Logos
+168,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100071960765227.png,Association Logos
+169,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063952714023.png,Association Logos
+170,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1443592630-pedalzaotvagu.png,Frontimage Man/Woman
+171,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1881979256-netvoyotelo.png,Frontimage Man/Woman
+172,/data/datasets/scam_donation_2024/scammers_images/all/twitter_233021404.png,Frontimage Man/Woman
+173,/data/datasets/scam_donation_2024/scammers_images/all/instagram_tummyandgummy.png,Pets
+174,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1779479066-nXA9e4Blky9jYjIy.png,Games & Cartoon
+175,/data/datasets/scam_donation_2024/scammers_images/all/twitter_491444555.png,Association Logos
+176,/data/datasets/scam_donation_2024/scammers_images/all/instagram_cherylspanglerrealestate.png,Frontimage Man/Woman
+177,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1850318892-audio_kitobxonam.png,Games & Cartoon
+178,/data/datasets/scam_donation_2024/scammers_images/all/twitter_777878930413932549.png,Games & Cartoon
+179,/data/datasets/scam_donation_2024/scammers_images/all/youtube_QPQoeXTcFBQ.png,Social Content/Posts
+180,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1820622806-legalayz_live.png,Games & Cartoon
+181,/data/datasets/scam_donation_2024/scammers_images/all/instagram_lea_cheexin.png,Frontimage Man/Woman
+182,/data/datasets/scam_donation_2024/scammers_images/all/youtube_M_PPYI0X4k4.png,Social Content/Posts
+183,/data/datasets/scam_donation_2024/scammers_images/all/twitter_911011433147654144.png,Association Logos
+184,/data/datasets/scam_donation_2024/scammers_images/all/twitter_89172148.png,Frontimage Man/Woman
+185,/data/datasets/scam_donation_2024/scammers_images/all/twitter_495532074.png,Games & Cartoon
+186,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1849286586-akhmad1408.png,Frontimage Man/Woman
+187,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100079880086076.png,Association Logos
+188,/data/datasets/scam_donation_2024/scammers_images/all/youtube_5tabnGFYJBE.png,Politics/War
+189,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1649515844-C4hlhgZyHZFhYTc1.png,Association Logos
+190,/data/datasets/scam_donation_2024/scammers_images/all/youtube_4JAir-uJ_kw.png,Social Content/Posts
+191,/data/datasets/scam_donation_2024/scammers_images/all/twitter_146115076.png,Association Logos
+192,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064456911668.png,Games & Cartoon
+193,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1801404831-kinofromirm.png,Politics/War
+194,/data/datasets/scam_donation_2024/scammers_images/all/instagram_kevintehmsc.png,Frontimage Man/Woman
+195,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1077871781-simorgh_ecotourism.png,Association Logos
+196,/data/datasets/scam_donation_2024/scammers_images/all/twitter_744697586.png,Frontimage Man/Woman
+197,/data/datasets/scam_donation_2024/scammers_images/all/youtube_OM0Jtm9j5gE.png,Social Content/Posts
+198,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2679149100.png,Games & Cartoon
+199,/data/datasets/scam_donation_2024/scammers_images/all/twitter_964793138408804352.png,Frontimage Man/Woman
+200,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1215497253495816193.png,Frontimage Man/Woman
+201,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1382295550872141828.png,Frontimage Man/Woman
+202,/data/datasets/scam_donation_2024/scammers_images/all/youtube_XE8IS1ACJi8.png,Politics/War
+203,/data/datasets/scam_donation_2024/scammers_images/all/twitter_19379076.png,Association Logos
+204,/data/datasets/scam_donation_2024/scammers_images/all/youtube_qPA0YcdgdT0.png,Politics/War
+205,/data/datasets/scam_donation_2024/scammers_images/all/instagram_discoveryprep.png,Association Logos
+206,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1396433804-fatimakhadueva369.png,Frontimage Man/Woman
+207,/data/datasets/scam_donation_2024/scammers_images/all/twitter_24335226.png,Frontimage Man/Woman
+208,/data/datasets/scam_donation_2024/scammers_images/all/twitter_439348486.png,Frontimage Man/Woman
+209,/data/datasets/scam_donation_2024/scammers_images/all/youtube_QMbWE69wjUU.png,Social Content/Posts
+210,/data/datasets/scam_donation_2024/scammers_images/all/twitter_122068746.png,Games & Cartoon
+211,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063644254824.png,Association Logos
+212,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1755578273-vikasncertteam.png,Politics/War
+213,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100048098630161.png,Pets
+214,/data/datasets/scam_donation_2024/scammers_images/all/twitter_18029079.png,Frontimage Man/Woman
+215,/data/datasets/scam_donation_2024/scammers_images/all/youtube_LeshgkkO7HE.png,Pets
+216,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1243786658-cbUY6jTCuXIwNzIy.png,Politics/War
+217,/data/datasets/scam_donation_2024/scammers_images/all/youtube__E-uU0al7LI.png,Politics/War
+218,/data/datasets/scam_donation_2024/scammers_images/all/youtube_mPG55qISRuE.png,Frontimage Man/Woman
+219,/data/datasets/scam_donation_2024/scammers_images/all/youtube_FrZty2pHp6k.png,Social Content/Posts
+220,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1658118535-losevlive.png,Frontimage Man/Woman
+221,/data/datasets/scam_donation_2024/scammers_images/all/youtube_DBDkj_txo_o.png,Politics/War
+222,/data/datasets/scam_donation_2024/scammers_images/all/youtube_bm81x9kFAKU.png,Politics/War
+223,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064653075365.png,Pets
+224,/data/datasets/scam_donation_2024/scammers_images/all/youtube_QpcmSKtCa5c.png,Politics/War
+225,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1605361849-meankeen.png,Frontimage Man/Woman
+226,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064637861617.png,Pets
+227,/data/datasets/scam_donation_2024/scammers_images/all/-pza8fv40b4.png,Games & Cartoon
+228,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1429495042696269829.png,Frontimage Man/Woman
+229,/data/datasets/scam_donation_2024/scammers_images/all/youtube__OvUBcST-U0.png,Social Content/Posts
+230,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1634214154-rostok_pitomnik.png,Politics/War
+231,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063667595963.png,Frontimage Man/Woman
+232,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100065484159202.png,Pets
+233,/data/datasets/scam_donation_2024/scammers_images/all/youtube_kI5IiWrF42M.png,Politics/War
+234,/data/datasets/scam_donation_2024/scammers_images/all/twitter_948303604393357312.png,Crypto Coins
+235,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1842181039-artjockey.png,Games & Cartoon
+236,/data/datasets/scam_donation_2024/scammers_images/all/youtube_4Z3kHDCBWYE.png,Social Content/Posts
+237,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1002973057726779398.png,Association Logos
+238,/data/datasets/scam_donation_2024/scammers_images/all/twitter_4132926754.png,Frontimage Man/Woman
+239,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064531968877.png,Games & Cartoon
+240,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1329928361-k_s_ksenyaa.png,Frontimage Man/Woman
+241,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064656371140.png,Association Logos
+242,/data/datasets/scam_donation_2024/scammers_images/all/twitter_159367435.png,Frontimage Man/Woman
+243,/data/datasets/scam_donation_2024/scammers_images/all/twitter_768653585911455744.png,Frontimage Man/Woman
+244,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1699954819.png,Miscellaneous
+245,/data/datasets/scam_donation_2024/scammers_images/all/youtube_6JeVAm9G1i0.png,Politics/War
+246,/data/datasets/scam_donation_2024/scammers_images/all/instagram_acrocats.png,Pets
+247,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1680956281-robert_magyar.png,Politics/War
+248,/data/datasets/scam_donation_2024/scammers_images/all/youtube_kv8VJWIb80s.png,Social Content/Posts
+249,/data/datasets/scam_donation_2024/scammers_images/all/twitter_210821882.png,Association Logos
+250,/data/datasets/scam_donation_2024/scammers_images/all/youtube_PDQbOvp40ho.png,Social Content/Posts
+251,/data/datasets/scam_donation_2024/scammers_images/all/twitter_935173663174905856.png,Association Logos
+252,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1772083679-1SDSpn19D9wzOGYy.png,Frontimage Man/Woman
+253,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1719646875-muefaco.png,Association Logos
+254,/data/datasets/scam_donation_2024/scammers_images/all/youtube_eQmHLrCiX1Y.png,Frontimage Man/Woman
+255,/data/datasets/scam_donation_2024/scammers_images/all/twitter_19668491.png,Frontimage Man/Woman
+256,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064046648934.png,Association Logos
+257,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1138686955544371200.png,Crypto Coins
+258,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100057379003033.png,Pets
+259,/data/datasets/scam_donation_2024/scammers_images/all/youtube_AiV7FvXNxeE.png,Politics/War
+260,/data/datasets/scam_donation_2024/scammers_images/all/youtube_lNNyaD4zArE.png,Politics/War
+261,/data/datasets/scam_donation_2024/scammers_images/all/twitter_550529673.png,Association Logos
+262,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1213346929-explosivemikechannel.png,Games & Cartoon
+263,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100060284378512.png,Association Logos
+264,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1159080297-egurudigital.png,Association Logos
+265,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2042730274-Axk-1PFoTjs3N2Ey.png,Games & Cartoon
+266,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1168681794.png,Association Logos
+267,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063505392548.png,Association Logos
+268,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063560321220.png,Miscellaneous
+269,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1839914997.png,Association Logos
+270,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1662119360.png,Crypto Coins
+271,/data/datasets/scam_donation_2024/scammers_images/all/youtube_vMXaekRh2U4.png,Social Content/Posts
+272,/data/datasets/scam_donation_2024/scammers_images/all/twitter_82359475.png,Pets
+273,/data/datasets/scam_donation_2024/scammers_images/all/youtube_HhiG42i52Vk.png,Social Content/Posts
+274,/data/datasets/scam_donation_2024/scammers_images/all/youtube_Ep2WNO2XGAw.png,Politics/War
+275,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2085966008.png,Crypto Coins
+276,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1147093106069626880.png,Association Logos
+277,/data/datasets/scam_donation_2024/scammers_images/all/twitter_10336652.png,Frontimage Man/Woman
+278,/data/datasets/scam_donation_2024/scammers_images/all/instagram_curtincollege.png,Association Logos
+279,/data/datasets/scam_donation_2024/scammers_images/all/youtube_7nYEpSMm18E.png,Politics/War
+280,/data/datasets/scam_donation_2024/scammers_images/all/twitter_211371663.png,Association Logos
+281,/data/datasets/scam_donation_2024/scammers_images/all/twitter_367308026.png,Pets
+282,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1539288756-igor_medov.png,Association Logos
+283,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2956363464.png,Association Logos
+284,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1872614580-postgloss.png,Association Logos
+285,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1785905709.png,Frontimage Man/Woman
+286,/data/datasets/scam_donation_2024/scammers_images/all/youtube_B6T5t3Q2b8U.png,Social Content/Posts
+287,/data/datasets/scam_donation_2024/scammers_images/all/twitter_887004684938084354.png,Association Logos
+288,/data/datasets/scam_donation_2024/scammers_images/all/twitter_797882673599365121.png,Association Logos
+289,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064911631445.png,Pets
+290,/data/datasets/scam_donation_2024/scammers_images/all/instagram_jakkfrost215.png,Pets
+291,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1950542560-indian_trader_maker_money_craypt.png,Crypto Coins
+292,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1320216055-pediatric_uz.png,Association Logos
+293,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063836412271.png,Games & Cartoon
+294,/data/datasets/scam_donation_2024/scammers_images/all/youtube_O3_QdRC4C1U.png,Frontimage Man/Woman
+295,/data/datasets/scam_donation_2024/scammers_images/all/youtube_8hwbl-lZBJo.png,Social Content/Posts
+296,/data/datasets/scam_donation_2024/scammers_images/all/instagram_smccorsairs.png,Association Logos
+297,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1832102868.png,Games & Cartoon
+298,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064379661732.png,Games & Cartoon
+299,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100090262355733.png,Miscellaneous
+300,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100044659353777.png,Miscellaneous
+301,/data/datasets/scam_donation_2024/scammers_images/all/youtube_3gNLmAlSnNY.png,Social Content/Posts
+302,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063589570049.png,Pets
+303,/data/datasets/scam_donation_2024/scammers_images/all/instagram_alotrolado_org.png,Miscellaneous
+304,/data/datasets/scam_donation_2024/scammers_images/all/youtube_5d3ujjMqbDs.png,Politics/War
+305,/data/datasets/scam_donation_2024/scammers_images/all/twitter_29561493.png,Association Logos
+306,/data/datasets/scam_donation_2024/scammers_images/all/youtube_e0d-y_dnB30.png,Frontimage Man/Woman
+307,/data/datasets/scam_donation_2024/scammers_images/all/twitter_240813683.png,Miscellaneous
+308,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100093870837162.png,Association Logos
+309,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1393233232699789316.png,Games & Cartoon
+310,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100091725639667.png,Pets
+311,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1339843215-potapenkodmitry.png,Frontimage Man/Woman
+312,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1023928763002888193.png,Association Logos
+313,/data/datasets/scam_donation_2024/scammers_images/all/instagram_foreveryoursbetty.png,Frontimage Man/Woman
+314,/data/datasets/scam_donation_2024/scammers_images/all/instagram_rnli.png,Association Logos
+315,/data/datasets/scam_donation_2024/scammers_images/all/youtube_VpJ4AjsYp4A.png,Politics/War
+316,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064780806084.png,Association Logos
+317,/data/datasets/scam_donation_2024/scammers_images/all/twitter_926482707932241920.png,Association Logos
+318,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1405457386-nablydateli.png,Miscellaneous
+319,/data/datasets/scam_donation_2024/scammers_images/all/twitter_902822790.png,Frontimage Man/Woman
+320,/data/datasets/scam_donation_2024/scammers_images/all/youtube_UAAXNW0_9qA.png,Politics/War
+321,/data/datasets/scam_donation_2024/scammers_images/all/youtube_esyot28ZrhY.png,Politics/War
+322,/data/datasets/scam_donation_2024/scammers_images/all/youtube_5-wkLHfezQQ.png,Social Content/Posts
+323,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100071050310392.png,Association Logos
+324,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063700893594.png,Miscellaneous
+325,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1607782593-tkachuk_aliaksey.png,Frontimage Man/Woman
+326,/data/datasets/scam_donation_2024/scammers_images/all/twitter_35900933.png,Miscellaneous
+327,/data/datasets/scam_donation_2024/scammers_images/all/youtube_beurKPCr1Ys.png,Social Content/Posts
+328,/data/datasets/scam_donation_2024/scammers_images/all/twitter_571025499.png,Games & Cartoon
+329,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064544903322.png,Association Logos
+330,/data/datasets/scam_donation_2024/scammers_images/all/youtube__P3MxRLH3Ec.png,Frontimage Man/Woman
+331,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100068058084421.png,Association Logos
+332,/data/datasets/scam_donation_2024/scammers_images/all/instagram_gemeinsamfuerdietiere.png,Pets
+333,/data/datasets/scam_donation_2024/scammers_images/all/twitter_40270657.png,Association Logos
+334,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2092883255-rowsantiranga.png,Social Content/Posts
+335,/data/datasets/scam_donation_2024/scammers_images/all/twitter_636123842.png,Frontimage Man/Woman
+336,/data/datasets/scam_donation_2024/scammers_images/all/twitter_298744875.png,Games & Cartoon
+337,/data/datasets/scam_donation_2024/scammers_images/all/twitter_191445463.png,Games & Cartoon
+338,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2104320140-crypto_astral_gem.png,Association Logos
+339,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2561307852.png,Association Logos
+340,/data/datasets/scam_donation_2024/scammers_images/all/youtube_S4OtlZZOczA.png,Social Content/Posts
+341,/data/datasets/scam_donation_2024/scammers_images/all/youtube_u4J7au3V9Ww.png,Social Content/Posts
+342,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2022133331-J3xatLcc6cc2MzVl.png,Frontimage Man/Woman
+343,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063549491737.png,Association Logos
+344,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1957510026-yaxshilikga.png,Association Logos
+345,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1568629614-zero_to_sr_stocks_gap_up_trading.png,Crypto Coins
+346,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1152455706-mete0ra.png,Games & Cartoon
+347,/data/datasets/scam_donation_2024/scammers_images/all/twitter_17924595.png,Games & Cartoon
+348,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1584144228329857024.png,Pets
+349,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1755852445-mjj_emby.png,Association Logos
+350,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064518891228.png,Pets
+351,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1462667851-persdag.png,Frontimage Man/Woman
+352,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1620209634-YXQpQOO1H1QyOGVi.png,Games & Cartoon
+353,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1445003279230963728.png,Games & Cartoon
+354,/data/datasets/scam_donation_2024/scammers_images/all/youtube_cl45rDVBppw.png,Politics/War
+355,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1134669863-doctorfasil.png,Association Logos
+356,/data/datasets/scam_donation_2024/scammers_images/all/twitter_72056536.png,Association Logos
+357,/data/datasets/scam_donation_2024/scammers_images/all/youtube_ijSzyobXT6Q.png,Politics/War
+358,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1290946519-B6vuPq7yLCo2NDcy.png,Association Logos
+359,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2926980526.png,Association Logos
+360,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064558817741.png,Association Logos
+361,/data/datasets/scam_donation_2024/scammers_images/all/youtube_VRhCS4oTAZU.png,Politics/War
+362,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100068672916252.png,Pets
+363,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100066376796459.png,Association Logos
+364,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2260491445.png,Association Logos
+365,/data/datasets/scam_donation_2024/scammers_images/all/twitter_284845544.png,Games & Cartoon
+366,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1758511151.png,Crypto Coins
+367,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1766249667.png,Frontimage Man/Woman
+368,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1406785552-picsart33.png,Association Logos
+369,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1268948165-aimansuwaid.png,Games & Cartoon
+370,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100070215741424.png,Association Logos
+371,/data/datasets/scam_donation_2024/scammers_images/all/twitter_276124925.png,Association Logos
+372,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1317068049-geography_trophy.png,Miscellaneous
+373,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1377890818-region_61.png,Miscellaneous
+374,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1661596376-rajasthan_patrika_epaperz.png,Politics/War
+375,/data/datasets/scam_donation_2024/scammers_images/all/youtube_Gxnne-sm6rA.png,Frontimage Man/Woman
+376,/data/datasets/scam_donation_2024/scammers_images/all/youtube_s2pywKhngzA.png,Social Content/Posts
+377,/data/datasets/scam_donation_2024/scammers_images/all/youtube_4s3DFmPHxcY.png,Social Content/Posts
+378,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1944142841-khartoummagbara.png,Association Logos
+379,/data/datasets/scam_donation_2024/scammers_images/all/youtube_stnhKHP2OoI.png,Frontimage Man/Woman
+380,/data/datasets/scam_donation_2024/scammers_images/all/instagram_azreel.j.png,Frontimage Man/Woman
+381,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2080276403-cryptodiaryx.png,Crypto Coins
+382,/data/datasets/scam_donation_2024/scammers_images/all/twitter_337931779.png,Association Logos
+383,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100083339852260.png,Association Logos
+384,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064662074910.png,Association Logos
+385,/data/datasets/scam_donation_2024/scammers_images/all/twitter_510931552.png,Association Logos
+386,/data/datasets/scam_donation_2024/scammers_images/all/youtube_XEASojwUbjk.png,Social Content/Posts
+387,/data/datasets/scam_donation_2024/scammers_images/all/youtube_DvisTT4SOY0.png,Politics/War
+388,/data/datasets/scam_donation_2024/scammers_images/all/youtube_C8g9Y6Z9HG0.png,Social Content/Posts
+389,/data/datasets/scam_donation_2024/scammers_images/all/instagram_tiffinny86.png,Frontimage Man/Woman
+390,/data/datasets/scam_donation_2024/scammers_images/all/twitter_17108205.png,Frontimage Man/Woman
+391,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100093139795888.png,Miscellaneous
+392,/data/datasets/scam_donation_2024/scammers_images/all/twitter_96746102.png,Association Logos
+393,/data/datasets/scam_donation_2024/scammers_images/all/youtube_es24Hq6W2KY.png,Social Content/Posts
+394,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1446925185-grihasthtantra.png,Games & Cartoon
+395,/data/datasets/scam_donation_2024/scammers_images/all/youtube_a0L0iRiJhkM.png,Politics/War
+396,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1292866766-volodymyrzolkin.png,Politics/War
+397,/data/datasets/scam_donation_2024/scammers_images/all/instagram_southshieldsvets4pets.png,Social Content/Posts
+398,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1870713804-TzhVEnVepbE2ZWU6.png,Games & Cartoon
+399,/data/datasets/scam_donation_2024/scammers_images/all/instagram_worldanimalprotectionindia.png,Pets
+400,/data/datasets/scam_donation_2024/scammers_images/all/youtube_g9k50a8ZfLQ.png,Social Content/Posts
+401,/data/datasets/scam_donation_2024/scammers_images/all/twitter_15780003.png,Games & Cartoon
+402,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100093059950701.png,Pets
+403,/data/datasets/scam_donation_2024/scammers_images/all/youtube_idUwnvUlotw.png,Politics/War
+404,/data/datasets/scam_donation_2024/scammers_images/all/twitter_3063996411.png,Association Logos
+405,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1342332462-finversiaru.png,Association Logos
+406,/data/datasets/scam_donation_2024/scammers_images/all/instagram_rp4foundation.png,Association Logos
+407,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064504853681.png,Association Logos
+408,/data/datasets/scam_donation_2024/scammers_images/all/instagram_stephenneul.png,Politics/War
+409,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1059366169847701504.png,Association Logos
+410,/data/datasets/scam_donation_2024/scammers_images/all/instagram_rivervalleyschoolyyc.png,Association Logos
+411,/data/datasets/scam_donation_2024/scammers_images/all/youtube_a0oBv0nVdyE.png,Politics/War
+412,/data/datasets/scam_donation_2024/scammers_images/all/youtube_VDY2eeZZjmU.png,Social Content/Posts
+413,/data/datasets/scam_donation_2024/scammers_images/all/youtube_p9hNF4uf0GM.png,Frontimage Man/Woman
+414,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064930530747.png,Pets
+415,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1464281158-geoshow.png,Games & Cartoon
+416,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100057572554317.png,Association Logos
+417,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1618329606-egorikvtge.png,Games & Cartoon
+418,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1676791446-letrachetllllll.png,Frontimage Man/Woman
+419,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1045542522.png,Association Logos
+420,/data/datasets/scam_donation_2024/scammers_images/all/instagram_animaltracksinc.png,Association Logos
+421,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063508816208.png,Association Logos
+422,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2075709730-Pnjsm0UjkLY3ZGMy.png,Games & Cartoon
+423,/data/datasets/scam_donation_2024/scammers_images/all/instagram_umut_fipwarrior.png,Pets
+424,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063701144816.png,Association Logos
+425,/data/datasets/scam_donation_2024/scammers_images/all/twitter_454138567.png,Association Logos
+426,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2954215665.png,Games & Cartoon
+427,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1525009211369082880.png,Frontimage Man/Woman
+428,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100068769505268.png,Association Logos
+429,/data/datasets/scam_donation_2024/scammers_images/all/youtube_EsCGlpQCMuQ.png,Association Logos
+430,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2053691738-LgJAF2mBzuk0NjFi.png,Politics/War
+431,/data/datasets/scam_donation_2024/scammers_images/all/twitter_88701664.png,Miscellaneous
+432,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1988832522.png,Association Logos
+433,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1346991995-rbe_s.png,Association Logos
+434,/data/datasets/scam_donation_2024/scammers_images/all/twitter_111544641.png,Games & Cartoon
+435,/data/datasets/scam_donation_2024/scammers_images/all/youtube_WUBMPqzBL6I.png,Pets
+436,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1275666149510963202.png,Games & Cartoon
+437,/data/datasets/scam_donation_2024/scammers_images/all/youtube_9GWlLebNDw8.png,Social Content/Posts
+438,/data/datasets/scam_donation_2024/scammers_images/all/youtube_kdKAd6S31s0.png,Social Content/Posts
+439,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2161062757.png,Association Logos
+440,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2075893577-kL15bT-V8yw4ZDgy.png,Frontimage Man/Woman
+441,/data/datasets/scam_donation_2024/scammers_images/all/instagram_aurangabadtimes.png,Association Logos
+442,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064716844917.png,Frontimage Man/Woman
+443,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1290299574.png,Frontimage Man/Woman
+444,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1013922832-parentingibutangguhpit.png,Association Logos
+445,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1273988391-8gbxNnDGe0thODNi.png,Association Logos
+446,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1865241702-ResE1Drt9282NTY6.png,Games & Cartoon
+447,/data/datasets/scam_donation_2024/scammers_images/all/twitter_17676022.png,Association Logos
+448,/data/datasets/scam_donation_2024/scammers_images/all/youtube_Q_QQx6lnt7E.png,Social Content/Posts
+449,/data/datasets/scam_donation_2024/scammers_images/all/youtube_wGN-25bpPQ8.png,Social Content/Posts
+450,/data/datasets/scam_donation_2024/scammers_images/all/instagram_aeindia.png,Pets
+451,/data/datasets/scam_donation_2024/scammers_images/all/twitter_44347471.png,Association Logos
+452,/data/datasets/scam_donation_2024/scammers_images/all/instagram_rca_wealth.png,Association Logos
+453,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1304726139-potomstvenniy.png,Politics/War
+454,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100042175465702.png,Games & Cartoon
+455,/data/datasets/scam_donation_2024/scammers_images/all/youtube_xji48yvzAZY.png,Social Content/Posts
+456,/data/datasets/scam_donation_2024/scammers_images/all/twitter_27326924.png,Games & Cartoon
+457,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1479053226-kuzma671games3.png,Politics/War
+458,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1579314312-drsaramirjamali.png,Frontimage Man/Woman
+459,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100066718004130.png,Association Logos
+460,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1026486910-foodira.png,Games & Cartoon
+461,/data/datasets/scam_donation_2024/scammers_images/all/twitter_472315803.png,Frontimage Man/Woman
+462,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063996761924.png,Pets
+463,/data/datasets/scam_donation_2024/scammers_images/all/twitter_76366594.png,Association Logos
+464,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100076270081744.png,Pets
+465,/data/datasets/scam_donation_2024/scammers_images/all/twitter_280089842.png,Pets
+466,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1251710414452219904.png,Games & Cartoon
+467,/data/datasets/scam_donation_2024/scammers_images/all/youtube_5xStv-oE_d0.png,Social Content/Posts
+468,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064759538487.png,Association Logos
+469,/data/datasets/scam_donation_2024/scammers_images/all/youtube_azO0rnLCgTI.png,Games & Cartoon
+470,/data/datasets/scam_donation_2024/scammers_images/all/twitter_907847521556471813.png,Association Logos
+471,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064761516461.png,Pets
+472,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2764572990.png,Miscellaneous
+473,/data/datasets/scam_donation_2024/scammers_images/all/twitter_19736257.png,Association Logos
+474,/data/datasets/scam_donation_2024/scammers_images/all/twitter_54203535.png,Association Logos
+475,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2115471368-artemgluhov7.png,Politics/War
+476,/data/datasets/scam_donation_2024/scammers_images/all/twitter_183796269.png,Pets
+477,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1577177753-SrOy25rx6kU1M2My.png,Politics/War
+478,/data/datasets/scam_donation_2024/scammers_images/all/instagram_afterlifeanatomy.png,Frontimage Man/Woman
+479,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1594077173-jeHQvBFlNdA0ZDA0.png,Games & Cartoon
+480,/data/datasets/scam_donation_2024/scammers_images/all/twitter_877807935493033984.png,Crypto Coins
+481,/data/datasets/scam_donation_2024/scammers_images/all/twitter_290877784.png,Frontimage Man/Woman
+482,/data/datasets/scam_donation_2024/scammers_images/all/youtube_qLkw-CS9FQE.png,Politics/War
+483,/data/datasets/scam_donation_2024/scammers_images/all/youtube_pirWgxxWXVA.png,Games & Cartoon
+484,/data/datasets/scam_donation_2024/scammers_images/all/youtube_zbueGgTutl4.png,Social Content/Posts
+485,/data/datasets/scam_donation_2024/scammers_images/all/twitter_145973349.png,Association Logos
+486,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1468546663-leefbewustnederland.png,Politics/War
+487,/data/datasets/scam_donation_2024/scammers_images/all/instagram_ms.rachelboo.png,Frontimage Man/Woman
+488,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1409634396-daragan_konstantin.png,Frontimage Man/Woman
+489,/data/datasets/scam_donation_2024/scammers_images/all/twitter_832997779.png,Association Logos
+490,/data/datasets/scam_donation_2024/scammers_images/all/instagram_deltadeltameow.png,Pets
+491,/data/datasets/scam_donation_2024/scammers_images/all/instagram_revkatebottley.png,Frontimage Man/Woman
+492,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100065037602212.png,Association Logos
+493,/data/datasets/scam_donation_2024/scammers_images/all/instagram_yainetwork.png,Association Logos
+494,/data/datasets/scam_donation_2024/scammers_images/all/youtube_03FL4z8GsZ8.png,Social Content/Posts
+495,/data/datasets/scam_donation_2024/scammers_images/all/twitter_388500413.png,Association Logos
+496,/data/datasets/scam_donation_2024/scammers_images/all/youtube_73Uc8Z4d2FI.png,Social Content/Posts
+497,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063522489879.png,Pets
+498,/data/datasets/scam_donation_2024/scammers_images/all/twitter_25686165.png,Association Logos
+499,/data/datasets/scam_donation_2024/scammers_images/all/youtube_JVElfuSaghM.png,Social Content/Posts
+500,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1330601054862536706.png,Games & Cartoon
+501,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100069316607969.png,Pets
+502,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100087645281879.png,Association Logos
+503,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1872411127-8bXQwJ5HHTFkYTYy.png,Games & Cartoon
+504,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2161362860.png,Association Logos
+505,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1564349671-kreginaaaa.png,Frontimage Man/Woman
+506,/data/datasets/scam_donation_2024/scammers_images/all/instagram_versa_malaysia.png,Association Logos
+507,/data/datasets/scam_donation_2024/scammers_images/all/twitter_880583078845992960.png,Games & Cartoon
+508,/data/datasets/scam_donation_2024/scammers_images/all/twitter_768137317504647168.png,Association Logos
+509,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1739117669-bralnm7ps.png,Politics/War
+510,/data/datasets/scam_donation_2024/scammers_images/all/instagram_harborday.png,Association Logos
+511,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100090799433373.png,Association Logos
+512,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1797428387.png,Games & Cartoon
+513,/data/datasets/scam_donation_2024/scammers_images/all/youtube_EdpXbQ8YHrQ.png,Social Content/Posts
+514,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1588209016.png,Politics/War
+515,/data/datasets/scam_donation_2024/scammers_images/all/youtube_9ovrV5lqVnM.png,Politics/War
+516,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1368023217-angelheartinfo.png,Association Logos
+517,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100083153569527.png,Pets
+518,/data/datasets/scam_donation_2024/scammers_images/all/twitter_33405683.png,Association Logos
+519,/data/datasets/scam_donation_2024/scammers_images/all/youtube_xRmQGleqfH8.png,Politics/War
+520,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1568629614-colour_trading_tiranga.png,Crypto Coins
+521,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1390903724550156288.png,Miscellaneous
+522,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1566703919-frogycalls.png,Crypto Coins
+523,/data/datasets/scam_donation_2024/scammers_images/all/youtube_UUvFU2DnC9Q.png,Social Content/Posts
+524,/data/datasets/scam_donation_2024/scammers_images/all/twitter_529334800.png,Association Logos
+525,/data/datasets/scam_donation_2024/scammers_images/all/youtube_TK7Y9z1_LzQ.png,Social Content/Posts
+526,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1679983145-onastaasis.png,Frontimage Man/Woman
+527,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100080405320074.png,Association Logos
+528,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100044495141406.png,Games & Cartoon
+529,/data/datasets/scam_donation_2024/scammers_images/all/twitter_19397942.png,Frontimage Man/Woman
+530,/data/datasets/scam_donation_2024/scammers_images/all/twitter_50654477.png,Association Logos
+531,/data/datasets/scam_donation_2024/scammers_images/all/youtube_hCjQL9sBSQA.png,Pets
+532,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1061677761012662274.png,Association Logos
+533,/data/datasets/scam_donation_2024/scammers_images/all/youtube_Jc5QEaS4c4M.png,Social Content/Posts
+534,/data/datasets/scam_donation_2024/scammers_images/all/youtube_SgM0AjwioHI.png,Politics/War
+535,/data/datasets/scam_donation_2024/scammers_images/all/facebook_61554102128027.png,Pets
+536,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1312217947-helixstockhchannel.png,Association Logos
+537,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1696332580-FEvZ2nVKn8U0NzRi.png,Association Logos
+538,/data/datasets/scam_donation_2024/scammers_images/all/youtube_bvnabiI1YfQ.png,Politics/War
+539,/data/datasets/scam_donation_2024/scammers_images/all/youtube_oo3mH4f7c-M.png,Politics/War
+540,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100044336144185.png,Frontimage Man/Woman
+541,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1928455557-wolftrader31.png,Association Logos
+542,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1252754444.png,Politics/War
+543,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1616738774-slavicrod.png,Games & Cartoon
+544,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1509592296.png,Pets
+545,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100080184491237.png,Association Logos
+546,/data/datasets/scam_donation_2024/scammers_images/all/twitter_101889708.png,Association Logos
+547,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1431769767577149452.png,Miscellaneous
+548,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1126977006.png,Games & Cartoon
+549,/data/datasets/scam_donation_2024/scammers_images/all/youtube_NH9uAXFqXm4.png,Social Content/Posts
+550,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100070841424559.png,Association Logos
+551,/data/datasets/scam_donation_2024/scammers_images/all/instagram_everycathealth.png,Games & Cartoon
+552,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1650936331365654536.png,Frontimage Man/Woman
+553,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1777293262-DwC7G_oq-5FlMWFi.png,Politics/War
+554,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1303101716-Y_-0PLUsS4NiYmUy.png,Frontimage Man/Woman
+555,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1390045662.png,Association Logos
+556,/data/datasets/scam_donation_2024/scammers_images/all/twitter_137124405.png,Frontimage Man/Woman
+557,/data/datasets/scam_donation_2024/scammers_images/all/twitter_459156257.png,Association Logos
+558,/data/datasets/scam_donation_2024/scammers_images/all/instagram_thecatball.png,Pets
+559,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100071324801573.png,Association Logos
+560,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063997687698.png,Pets
+561,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2113852936-twkofficial79_trade.png,Frontimage Man/Woman
+562,/data/datasets/scam_donation_2024/scammers_images/all/instagram_riyyog.png,Association Logos
+563,/data/datasets/scam_donation_2024/scammers_images/all/twitter_4150848041.png,Association Logos
+564,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064752127301.png,Association Logos
+565,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1131600862118338561.png,Games & Cartoon
+566,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1049465747653582848.png,Games & Cartoon
+567,/data/datasets/scam_donation_2024/scammers_images/all/twitter_770678672.png,Pets
+568,/data/datasets/scam_donation_2024/scammers_images/all/youtube_OGUgQo2h68o.png,Social Content/Posts
+569,/data/datasets/scam_donation_2024/scammers_images/all/twitter_4824224591.png,Association Logos
+570,/data/datasets/scam_donation_2024/scammers_images/all/twitter_335921177.png,Association Logos
+571,/data/datasets/scam_donation_2024/scammers_images/all/youtube_bqt2X_3bUOY.png,Social Content/Posts
+572,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1356545831487340545.png,Association Logos
+573,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1690321551-vtp777.png,Games & Cartoon
+574,/data/datasets/scam_donation_2024/scammers_images/all/youtube_yXGr-5En8L4.png,Social Content/Posts
+575,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064872333293.png,Association Logos
+576,/data/datasets/scam_donation_2024/scammers_images/all/instagram_narinder22.png,Frontimage Man/Woman
+577,/data/datasets/scam_donation_2024/scammers_images/all/-rATcWut4Xk.png,Social Content/Posts
+578,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1351220173-bratchuk_sergey.png,Politics/War
+579,/data/datasets/scam_donation_2024/scammers_images/all/youtube_pIG-NBNZMCc.png,Social Content/Posts
+580,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063479291085.png,Frontimage Man/Woman
+581,/data/datasets/scam_donation_2024/scammers_images/all/youtube_qODoZILsbas.png,Politics/War
+582,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100079283511827.png,Pets
+583,/data/datasets/scam_donation_2024/scammers_images/all/youtube_WapeEBqO8oA.png,Social Content/Posts
+584,/data/datasets/scam_donation_2024/scammers_images/all/instagram_tommyscatsnj.png,Pets
+585,/data/datasets/scam_donation_2024/scammers_images/all/twitter_172909628.png,Pets
+586,/data/datasets/scam_donation_2024/scammers_images/all/youtube_HGEpyE2wYnE.png,Politics/War
+587,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2074001001-raiskiycasino.png,Politics/War
+588,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1526292281-ahri_calls.png,Crypto Coins
+589,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064585068317.png,Association Logos
+590,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2898149812.png,Association Logos
+591,/data/datasets/scam_donation_2024/scammers_images/all/twitter_801570646157393920.png,Association Logos
+592,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1364818926694109185.png,Association Logos
+593,/data/datasets/scam_donation_2024/scammers_images/all/youtube_6oUfinGfGQw.png,Politics/War
+594,/data/datasets/scam_donation_2024/scammers_images/all/youtube_6HJ7Um_d0IE.png,Social Content/Posts
+595,/data/datasets/scam_donation_2024/scammers_images/all/twitter_83609765.png,Association Logos
+596,/data/datasets/scam_donation_2024/scammers_images/all/twitter_84495877.png,Association Logos
+597,/data/datasets/scam_donation_2024/scammers_images/all/instagram_onepeace_218.png,Association Logos
+598,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1163541022288334848.png,Frontimage Man/Woman
+599,/data/datasets/scam_donation_2024/scammers_images/all/facebook_61555718670623.png,Pets
+600,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1770725532-kraken_kha.png,Association Logos
+601,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064711809212.png,Association Logos
+602,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1767094758-W0FkOTBat5k4NGRi.png,Frontimage Man/Woman
+603,/data/datasets/scam_donation_2024/scammers_images/all/instagram_michael.kuldiner.lawfirm.png,Association Logos
+604,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063593378407.png,Association Logos
+605,/data/datasets/scam_donation_2024/scammers_images/all/twitter_435055396.png,Miscellaneous
+606,/data/datasets/scam_donation_2024/scammers_images/all/youtube_ijskRqwP6hM.png,Social Content/Posts
+607,/data/datasets/scam_donation_2024/scammers_images/all/twitter_106438553.png,Frontimage Man/Woman
+608,/data/datasets/scam_donation_2024/scammers_images/all/youtube_3jVBu43VGW8.png,Games & Cartoon
+609,/data/datasets/scam_donation_2024/scammers_images/all/youtube_z-vFcb8CJkQ.png,Social Content/Posts
+610,/data/datasets/scam_donation_2024/scammers_images/all/twitter_589883314.png,Association Logos
+611,/data/datasets/scam_donation_2024/scammers_images/all/twitter_55261930.png,Games & Cartoon
+612,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064808679790.png,Pets
+613,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1189243412-mihaylets_pro.png,Frontimage Man/Woman
+614,/data/datasets/scam_donation_2024/scammers_images/all/youtube_Rp30IoCyzOU.png,Politics/War
+615,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063747933892.png,Association Logos
+616,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100084207713569.png,Association Logos
+617,/data/datasets/scam_donation_2024/scammers_images/all/twitter_16898857.png,Association Logos
+618,/data/datasets/scam_donation_2024/scammers_images/all/youtube_36rTVi9wHD0.png,Politics/War
+619,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1060108024-artnagrada.png,Games & Cartoon
+620,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1679982447-mestb_dobroj_voli.png,Politics/War
+621,/data/datasets/scam_donation_2024/scammers_images/all/instagram_ilovetheburg.png,Association Logos
+622,/data/datasets/scam_donation_2024/scammers_images/all/youtube_t0r6xJ-BLr0.png,Social Content/Posts
+623,/data/datasets/scam_donation_2024/scammers_images/all/twitter_3246140250.png,Association Logos
+624,/data/datasets/scam_donation_2024/scammers_images/all/youtube_0OyqmeB4POU.png,Politics/War
+625,/data/datasets/scam_donation_2024/scammers_images/all/youtube_uQCoCFNkrfo.png,Politics/War
+626,/data/datasets/scam_donation_2024/scammers_images/all/youtube_93w_4CmCUQg.png,Frontimage Man/Woman
+627,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100071530598334.png,Association Logos
+628,/data/datasets/scam_donation_2024/scammers_images/all/twitter_704723372.png,Association Logos
+629,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100069414919882.png,Pets
+630,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2009303448-wylsacomredss.png,Miscellaneous
+631,/data/datasets/scam_donation_2024/scammers_images/all/youtube_z2qe7xM9AA4.png,Politics/War
+632,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1824332209-gamechanger_calls_trader_bnf.png,Games & Cartoon
+633,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1131473833-gamedevjobs.png,Miscellaneous
+634,/data/datasets/scam_donation_2024/scammers_images/all/twitter_3229471058.png,Games & Cartoon
+635,/data/datasets/scam_donation_2024/scammers_images/all/youtube_mYizhwpTxCA.png,Social Content/Posts
+636,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1818767318-makers2fron.png,Politics/War
+637,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100094014815659.png,Association Logos
+638,/data/datasets/scam_donation_2024/scammers_images/all/youtube_Sn9Fz0Y54a8.png,Politics/War
+639,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100083046505303.png,Association Logos
+640,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063922189874.png,Pets
+641,/data/datasets/scam_donation_2024/scammers_images/all/twitter_74753359.png,Frontimage Man/Woman
+642,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100089546671195.png,Frontimage Man/Woman
+643,/data/datasets/scam_donation_2024/scammers_images/all/youtube_EInrzriU7a8.png,Social Content/Posts
+644,/data/datasets/scam_donation_2024/scammers_images/all/twitter_2352467130.png,Association Logos
+645,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1434702982-amoozeshe_tebe_sonati.png,Association Logos
+646,/data/datasets/scam_donation_2024/scammers_images/all/twitter_17211751.png,Games & Cartoon
+647,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1370252297-mogilkomarina.png,Frontimage Man/Woman
+648,/data/datasets/scam_donation_2024/scammers_images/all/twitter_4673902993.png,Association Logos
+649,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100067303345443.png,Association Logos
+650,/data/datasets/scam_donation_2024/scammers_images/all/twitter_301520162.png,Frontimage Man/Woman
+651,/data/datasets/scam_donation_2024/scammers_images/all/youtube_OVTWjbg5o3I.png,Social Content/Posts
+652,/data/datasets/scam_donation_2024/scammers_images/all/youtube_X3t7EhGhG8g.png,Social Content/Posts
+653,/data/datasets/scam_donation_2024/scammers_images/all/twitter_486534404.png,Association Logos
+654,/data/datasets/scam_donation_2024/scammers_images/all/youtube_kjPGbTgNSw4.png,Social Content/Posts
+655,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1314487694-ninja_calls1.png,Games & Cartoon
+656,/data/datasets/scam_donation_2024/scammers_images/all/youtube_1uAH6HEXlwc.png,Social Content/Posts
+657,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1910046289-Ey5Zby_3r9o0NWYy.png,Politics/War
+658,/data/datasets/scam_donation_2024/scammers_images/all/youtube_XX5RYJs1hLQ.png,Politics/War
+659,/data/datasets/scam_donation_2024/scammers_images/all/facebook_61556071432072.png,Pets
+660,/data/datasets/scam_donation_2024/scammers_images/all/youtube_U4u6CROkvDc.png,Politics/War
+661,/data/datasets/scam_donation_2024/scammers_images/all/youtube_6qkNwj5-uzg.png,Politics/War
+662,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064622834564.png,Association Logos
+663,/data/datasets/scam_donation_2024/scammers_images/all/youtube_G1S6YBxKZQo.png,Social Content/Posts
+664,/data/datasets/scam_donation_2024/scammers_images/all/twitter_72565586.png,Association Logos
+665,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1136365500-deptone.png,Association Logos
+666,/data/datasets/scam_donation_2024/scammers_images/all/youtube_hsPMCa8VKxo.png,Politics/War
+667,/data/datasets/scam_donation_2024/scammers_images/all/twitter_20106770.png,Association Logos
+668,/data/datasets/scam_donation_2024/scammers_images/all/youtube_JU044K_yCvU.png,Social Content/Posts
+669,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1915733999-bekcorem.png,Games & Cartoon
+670,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100079867675649.png,Association Logos
+671,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100055948034259.png,Pets
+672,/data/datasets/scam_donation_2024/scammers_images/all/youtube_iuYErs6kzpU.png,Politics/War
+673,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1434855791308193796.png,Miscellaneous
+674,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1594606318-lenina1977.png,Association Logos
+675,/data/datasets/scam_donation_2024/scammers_images/all/twitter_193414620.png,Association Logos
+676,/data/datasets/scam_donation_2024/scammers_images/all/twitter_729168722.png,Pets
+677,/data/datasets/scam_donation_2024/scammers_images/all/youtube__tIYrjBEczE.png,Social Content/Posts
+678,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064584736042.png,Miscellaneous
+679,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1645242744-pLaGk2I2B9k4ZmFk.png,Crypto Coins
+680,/data/datasets/scam_donation_2024/scammers_images/all/instagram_mirricat.png,Pets
+681,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064343785973.png,Association Logos
+682,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064718139023.png,Pets
+683,/data/datasets/scam_donation_2024/scammers_images/all/-5m-kR346r4.png,Social Content/Posts
+684,/data/datasets/scam_donation_2024/scammers_images/all/youtube_yk10ziKkzaE.png,Social Content/Posts
+685,/data/datasets/scam_donation_2024/scammers_images/all/twitter_40249956.png,Frontimage Man/Woman
+686,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063798540705.png,Association Logos
+687,/data/datasets/scam_donation_2024/scammers_images/all/youtube_8n2DxUXfPp0.png,Social Content/Posts
+688,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1650155116777951233.png,Games & Cartoon
+689,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100046308295721.png,Frontimage Man/Woman
+690,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064682587352.png,Miscellaneous
+691,/data/datasets/scam_donation_2024/scammers_images/all/youtube_7PbY2gJlzyg.png,Politics/War
+692,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100065171214219.png,Pets
+693,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1970700242-b8zzaJ-AxL81NTgy.png,Social Content/Posts
+694,/data/datasets/scam_donation_2024/scammers_images/all/twitter_305797406.png,Miscellaneous
+695,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100071881668163.png,Association Logos
+696,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1978105560-UGluPffN_lUyN2Iy.png,Miscellaneous
+697,/data/datasets/scam_donation_2024/scammers_images/all/youtube_0dsp4Jjgn3c.png,Frontimage Man/Woman
+698,/data/datasets/scam_donation_2024/scammers_images/all/youtube_giDX6ByhWO8.png,Politics/War
+699,/data/datasets/scam_donation_2024/scammers_images/all/youtube_VhPkCZ3o1-Q.png,Politics/War
+700,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1339403564-polonium_tea.png,Miscellaneous
+701,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1605847580-mnvZiZ8bBB1jMjIy.png,Games & Cartoon
+702,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2110588598-mr_scalper_scalping_world_0.png,Frontimage Man/Woman
+703,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1602236777-pm_small_trader_sb.png,Games & Cartoon
+704,/data/datasets/scam_donation_2024/scammers_images/all/twitter_52406934.png,Association Logos
+705,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1145417772-nonstopfiction.png,Games & Cartoon
+706,/data/datasets/scam_donation_2024/scammers_images/all/twitter_709396233664729088.png,Association Logos
+707,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064493721816.png,Association Logos
+708,/data/datasets/scam_donation_2024/scammers_images/all/instagram_hearherstories.png,Association Logos
+709,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100056007833992.png,Frontimage Man/Woman
+710,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1442158490324140035.png,Association Logos
+711,/data/datasets/scam_donation_2024/scammers_images/all/twitter_41905308.png,Association Logos
+712,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063896541211.png,Pets
+713,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064764786885.png,Frontimage Man/Woman
+714,/data/datasets/scam_donation_2024/scammers_images/all/twitter_3241784956.png,Association Logos
+715,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100081967609416.png,Association Logos
+716,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1619203889-sadovyygid.png,Frontimage Man/Woman
+717,/data/datasets/scam_donation_2024/scammers_images/all/instagram_tugbaavci67.png,Pets
+718,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100039496489871.png,Association Logos
+719,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1570229294.png,Games & Cartoon
+720,/data/datasets/scam_donation_2024/scammers_images/all/youtube_gRJjpJABT38.png,Social Content/Posts
+721,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2128682650.png,Games & Cartoon
+722,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1497691084-e4KhI-0onLMzYTEy.png,Crypto Coins
+723,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1127125185096761349.png,Association Logos
+724,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1455376707-munavvar_opa_tajvid.png,Association Logos
+725,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063653525036.png,Association Logos
+726,/data/datasets/scam_donation_2024/scammers_images/all/twitter_116776616.png,Association Logos
+727,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2035051617-tradewithsunil_sunil.png,Frontimage Man/Woman
+728,/data/datasets/scam_donation_2024/scammers_images/all/twitter_937425368.png,Association Logos
+729,/data/datasets/scam_donation_2024/scammers_images/all/twitter_62215517.png,Games & Cartoon
+730,/data/datasets/scam_donation_2024/scammers_images/all/youtube_lBY-1f97se4.png,Social Content/Posts
+731,/data/datasets/scam_donation_2024/scammers_images/all/youtube_jc0ZFpZpRN0.png,Social Content/Posts
+732,/data/datasets/scam_donation_2024/scammers_images/all/twitter_280044075.png,Games & Cartoon
+733,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1321787949-gsbykrati.png,Frontimage Man/Woman
+734,/data/datasets/scam_donation_2024/scammers_images/all/youtube_JDX82Os0fZI.png,Social Content/Posts
+735,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1938798522-merlionchannel.png,Frontimage Man/Woman
+736,/data/datasets/scam_donation_2024/scammers_images/all/facebook_1051346150.png,Frontimage Man/Woman
+737,/data/datasets/scam_donation_2024/scammers_images/all/twitter_21642672.png,Miscellaneous
+738,/data/datasets/scam_donation_2024/scammers_images/all/youtube_xrNH-IBDcf8.png,Social Content/Posts
+739,/data/datasets/scam_donation_2024/scammers_images/all/twitter_116987275.png,Association Logos
+740,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1366346975-oleg_blokhin.png,Frontimage Man/Woman
+741,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1917009939-drip_star.png,Association Logos
+742,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1829233480-JBa1tgCOltVjZjFi.png,Politics/War
+743,/data/datasets/scam_donation_2024/scammers_images/all/twitter_4353321041.png,Association Logos
+744,/data/datasets/scam_donation_2024/scammers_images/all/twitter_81820835.png,Frontimage Man/Woman
+745,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1443642477043494915.png,Pets
+746,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064510427252.png,Association Logos
+747,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1924465672-dBfHQxNmt3kxODRi.png,Politics/War
+748,/data/datasets/scam_donation_2024/scammers_images/all/youtube_ZXy3u8EkswE.png,Social Content/Posts
+749,/data/datasets/scam_donation_2024/scammers_images/all/twitter_74464632.png,Association Logos
+750,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100090896782576.png,Frontimage Man/Woman
+751,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1663099203-mz9w-1Erki9iMTUy.png,Politics/War
+752,/data/datasets/scam_donation_2024/scammers_images/all/youtube_xpeSPMhcoiE.png,Games & Cartoon
+753,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1431825114.png,Association Logos
+754,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1328539790.png,Pets
+755,/data/datasets/scam_donation_2024/scammers_images/all/youtube_vrj08rX7lsE.png,Social Content/Posts
+756,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1319534929.png,Frontimage Man/Woman
+757,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1349430976917733377.png,Miscellaneous
+758,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100038066414007.png,Association Logos
+759,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1855694533.png,Association Logos
+760,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1436845607-dmitriysteshin.png,Frontimage Man/Woman
+761,/data/datasets/scam_donation_2024/scammers_images/all/youtube_NttNnJGEF2U.png,Frontimage Man/Woman
+762,/data/datasets/scam_donation_2024/scammers_images/all/youtube_kEqzHjumK4w.png,Frontimage Man/Woman
+763,/data/datasets/scam_donation_2024/scammers_images/all/twitter_226995027.png,Association Logos
+764,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1863236574-eSi2JMyB4XkyZDgy.png,Politics/War
+765,/data/datasets/scam_donation_2024/scammers_images/all/twitter_823893227216470016.png,Association Logos
+766,/data/datasets/scam_donation_2024/scammers_images/all/youtube_EeVF208C36s.png,Social Content/Posts
+767,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1787456164-psycho_pharmacologist.png,Frontimage Man/Woman
+768,/data/datasets/scam_donation_2024/scammers_images/all/youtube_b-5TRQxtNuc.png,Politics/War
+769,/data/datasets/scam_donation_2024/scammers_images/all/twitter_139234811.png,Pets
+770,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100050225240833.png,Pets
+771,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100063871602881.png,Association Logos
+772,/data/datasets/scam_donation_2024/scammers_images/all/youtube_1GG6FwRlq1o.png,Social Content/Posts
+773,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1011989680622129153.png,Miscellaneous
+774,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1811018384-gay46b20CtlkMTdi.png,Politics/War
+775,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100083286553476.png,Association Logos
+776,/data/datasets/scam_donation_2024/scammers_images/all/twitter_732553075.png,Frontimage Man/Woman
+777,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100071271340383.png,Frontimage Man/Woman
+778,/data/datasets/scam_donation_2024/scammers_images/all/facebook_61553480295605.png,Frontimage Man/Woman
+779,/data/datasets/scam_donation_2024/scammers_images/all/twitter_44159391.png,Pets
+780,/data/datasets/scam_donation_2024/scammers_images/all/twitter_24611712.png,Frontimage Man/Woman
+781,/data/datasets/scam_donation_2024/scammers_images/all/twitter_99182109.png,Pets
+782,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064310545258.png,Pets
+783,/data/datasets/scam_donation_2024/scammers_images/all/youtube_YOBv-u2-bss.png,Social Content/Posts
+784,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064919792869.png,Association Logos
+785,/data/datasets/scam_donation_2024/scammers_images/all/youtube_u7e3bAMFtd0.png,Politics/War
+786,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1410871509116063745.png,Association Logos
+787,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1478222691.png,Games & Cartoon
+788,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1444969310.png,Frontimage Man/Woman
+789,/data/datasets/scam_donation_2024/scammers_images/all/instagram_daviesstudents.png,Association Logos
+790,/data/datasets/scam_donation_2024/scammers_images/all/facebook_729143073.png,Frontimage Man/Woman
+791,/data/datasets/scam_donation_2024/scammers_images/all/youtube_dU3ZlFw6IEo.png,Social Content/Posts
+792,/data/datasets/scam_donation_2024/scammers_images/all/instagram_legal_vallabhconsultancy.png,Association Logos
+793,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1037828450-renaissancetranslate.png,Miscellaneous
+794,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100057937904915.png,Frontimage Man/Woman
+795,/data/datasets/scam_donation_2024/scammers_images/all/twitter_214380911.png,Games & Cartoon
+796,/data/datasets/scam_donation_2024/scammers_images/all/youtube__4g8rrXyadE.png,Social Content/Posts
+797,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1984316055-esoteric_meetings_8channel.png,Politics/War
+798,/data/datasets/scam_donation_2024/scammers_images/all/youtube_x34tFCjNsuw.png,Social Content/Posts
+799,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100077581116123.png,Pets
+800,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1457917040983937031.png,Association Logos
+801,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1466298729640591361.png,Miscellaneous
+802,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100091307329213.png,Pets
+803,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1839282843-l66C_w7N5Ww0NWU1.png,Games & Cartoon
+804,/data/datasets/scam_donation_2024/scammers_images/all/telegram_2043834545-0Rm0oHoCWIYxMjhl.png,Crypto Coins
+805,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1435935164811681796.png,Miscellaneous
+806,/data/datasets/scam_donation_2024/scammers_images/all/twitter_1382776278542077957.png,Association Logos
+807,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1751115727-vnotebook31.png,Games & Cartoon
+808,/data/datasets/scam_donation_2024/scammers_images/all/twitter_32837201.png,Games & Cartoon
+809,/data/datasets/scam_donation_2024/scammers_images/all/youtube__hg4TO56rQk.png,Politics/War
+810,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1525866987-dikiidanik.png,Frontimage Man/Woman
+811,/data/datasets/scam_donation_2024/scammers_images/all/instagram_principleofsolidarity.png,Association Logos
+812,/data/datasets/scam_donation_2024/scammers_images/all/instagram_norhayati.takafullady.png,Frontimage Man/Woman
+813,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100057612842528.png,Pets
+814,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1971103269.png,Games & Cartoon
+815,/data/datasets/scam_donation_2024/scammers_images/all/youtube_Y_bEljQEFNA.png,Social Content/Posts
+816,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1681963325-olgamama10.png,Frontimage Man/Woman
+817,/data/datasets/scam_donation_2024/scammers_images/all/facebook_61554674042114.png,Association Logos
+818,/data/datasets/scam_donation_2024/scammers_images/all/youtube_kbqT_LBjTGU.png,Social Content/Posts
+819,/data/datasets/scam_donation_2024/scammers_images/all/facebook_61550754151327.png,Association Logos
+820,/data/datasets/scam_donation_2024/scammers_images/all/facebook_100064974183090.png,Association Logos
+821,/data/datasets/scam_donation_2024/scammers_images/all/twitter_84555566.png,Pets
+822,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1399529584-raevskiy_live.png,Politics/War
+823,/data/datasets/scam_donation_2024/scammers_images/all/telegram_1385438056-AAAAAFKUG2gkPu-lW9iNDg.png,Association Logos

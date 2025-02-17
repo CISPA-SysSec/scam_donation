@@ -1,0 +1,41 @@
+{
+    "facebook_mega_data": {
+        "US": 10,
+        "HU": 1,
+        "EG": 1
+    },
+    "twitter_mega_data": {
+        "US": 29,
+        "MY": 1,
+        "TH": 1,
+        "BE": 1
+    },
+    "instagram_mega_data": {
+        "US": 1
+    },
+    "youtube_mega_data": {
+        "US": 24,
+        "CA": 3,
+        "BE": 1
+    },
+    "telegram_mega_data": {
+        "US": 36,
+        "GM": 15,
+        "CA": 7,
+        "DK": 2,
+        "BE": 1,
+        "CO": 1
+    },
+    "all": {
+        "US": 100,
+        "GM": 15,
+        "CA": 10,
+        "BE": 3,
+        "DK": 2,
+        "HU": 1,
+        "EG": 1,
+        "MY": 1,
+        "TH": 1,
+        "CO": 1
+    }
+}

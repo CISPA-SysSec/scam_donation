@@ -1,0 +1,41 @@
+{
+    "facebook_mega_data": {
+        "United States": 10,
+        "Hungary": 1,
+        "Egypt": 1
+    },
+    "twitter_mega_data": {
+        "United States": 29,
+        "Malaysia": 1,
+        "Thailand": 1,
+        "Belgium": 1
+    },
+    "instagram_mega_data": {
+        "United States": 1
+    },
+    "youtube_mega_data": {
+        "United States": 24,
+        "Canada": 3,
+        "Belgium": 1
+    },
+    "telegram_mega_data": {
+        "United States": 36,
+        "Gambia": 15,
+        "Canada": 7,
+        "Denmark": 2,
+        "Belgium": 1,
+        "Colombia": 1
+    },
+    "all": {
+        "United States": 100,
+        "Gambia": 15,
+        "Canada": 10,
+        "Belgium": 3,
+        "Denmark": 2,
+        "Hungary": 1,
+        "Egypt": 1,
+        "Malaysia": 1,
+        "Thailand": 1,
+        "Colombia": 1
+    }
+}

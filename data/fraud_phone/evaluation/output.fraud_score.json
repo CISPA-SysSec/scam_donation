@@ -1,0 +1,26 @@
+{
+    "facebook_mega_data": {
+        "85": 12
+    },
+    "twitter_mega_data": {
+        "85": 22,
+        "100": 10
+    },
+    "instagram_mega_data": {
+        "85": 1
+    },
+    "youtube_mega_data": {
+        "85": 22,
+        "100": 6
+    },
+    "telegram_mega_data": {
+        "85": 42,
+        "100": 20,
+        "90": 1
+    },
+    "all": {
+        "85": 99,
+        "100": 36,
+        "90": 1
+    }
+}

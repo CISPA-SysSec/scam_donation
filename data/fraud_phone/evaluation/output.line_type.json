@@ -1,0 +1,28 @@
+{
+    "facebook_mega_data": {
+        "VOIP": 9,
+        "Landline": 3
+    },
+    "twitter_mega_data": {
+        "VOIP": 22,
+        "Toll Free": 6,
+        "Landline": 4
+    },
+    "instagram_mega_data": {
+        "VOIP": 1
+    },
+    "youtube_mega_data": {
+        "VOIP": 20,
+        "Landline": 6,
+        "Toll Free": 2
+    },
+    "telegram_mega_data": {
+        "VOIP": 38,
+        "Landline": 25
+    },
+    "all": {
+        "VOIP": 90,
+        "Landline": 38,
+        "Toll Free": 8
+    }
+}
